@@ -1,0 +1,51 @@
+<svg width="420" height="88" viewBox="0 0 420 88" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Casare Alimentos">
+  <defs>
+    <linearGradient id="mark-bg" x1="0" y1="0" x2="72" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7F1D1D"/>
+      <stop offset="0.5" stop-color="#9B2C2C"/>
+      <stop offset="1" stop-color="#B22B2B"/>
+    </linearGradient>
+    <linearGradient id="gold-ring" x1="0" y1="0" x2="72" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D4A853"/>
+      <stop offset="0.35" stop-color="#E8C872"/>
+      <stop offset="0.65" stop-color="#C9A56A"/>
+      <stop offset="1" stop-color="#A8863E"/>
+    </linearGradient>
+    <linearGradient id="text-fill" x1="92" y1="18" x2="360" y2="70" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2B1715"/>
+      <stop offset="0.6" stop-color="#3D2120"/>
+      <stop offset="1" stop-color="#5A2E2A"/>
+    </linearGradient>
+    <linearGradient id="gold-line" x1="0" y1="0" x2="100" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D4A853"/>
+      <stop offset="0.5" stop-color="#E8C872"/>
+      <stop offset="1" stop-color="#C9A56A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Circular mark with gold border -->
+  <circle cx="38" cy="44" r="36" fill="url(#mark-bg)"/>
+  <circle cx="38" cy="44" r="36" stroke="url(#gold-ring)" stroke-width="2.2" fill="none"/>
+  <circle cx="38" cy="44" r="32.5" stroke="rgba(255,255,255,0.08)" stroke-width="0.6" fill="none"/>
+
+  <!-- Elegant C inside -->
+  <text x="38" y="57" fill="#FFF9F2" font-family="'Cormorant Garamond', Georgia, serif" font-size="44" font-weight="600" text-anchor="middle" letter-spacing="-0.02em" opacity="0.95">C</text>
+
+  <!-- Gold accent dot -->
+  <circle cx="57" cy="22" r="3" fill="url(#gold-ring)" opacity="0.85"/>
+
+  <!-- Brand name: Casare -->
+  <text x="92" y="46" fill="url(#text-fill)" font-family="'Cormorant Garamond', Georgia, serif" font-size="40" font-weight="700" letter-spacing="-0.01em">Casare</text>
+
+  <!-- Gold separator dot -->
+  <circle cx="243" cy="40" r="2.5" fill="url(#gold-line)" opacity="0.6"/>
+
+  <!-- Alimentos in lighter weight -->
+  <text x="256" y="46" fill="#6B4B46" font-family="'Cormorant Garamond', Georgia, serif" font-size="28" font-weight="500" letter-spacing="0.02em" opacity="0.8">Alimentos</text>
+
+  <!-- Subtle gold underline -->
+  <rect x="92" y="54" width="72" height="1.8" rx="0.9" fill="url(#gold-line)" opacity="0.5"/>
+
+  <!-- Tagline -->
+  <text x="92" y="72" fill="#8B6B66" font-family="'Inter', Arial, sans-serif" font-size="9" font-weight="600" letter-spacing="0.28em" opacity="0.7">DESDE 1980</text>
+</svg>

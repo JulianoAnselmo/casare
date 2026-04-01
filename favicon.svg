@@ -1,0 +1,19 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Casare">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7F1D1D"/>
+      <stop offset="0.5" stop-color="#9B2C2C"/>
+      <stop offset="1" stop-color="#B22B2B"/>
+    </linearGradient>
+    <linearGradient id="fgold" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D4A853"/>
+      <stop offset="0.5" stop-color="#E8C872"/>
+      <stop offset="1" stop-color="#C9A56A"/>
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30" fill="url(#fbg)"/>
+  <circle cx="32" cy="32" r="30" stroke="url(#fgold)" stroke-width="2" fill="none"/>
+  <circle cx="32" cy="32" r="26.5" stroke="rgba(255,255,255,0.08)" stroke-width="0.5" fill="none"/>
+  <text x="32" y="44" fill="#FFF9F2" font-family="'Cormorant Garamond', Georgia, serif" font-size="36" font-weight="600" text-anchor="middle" letter-spacing="-0.02em" opacity="0.95">C</text>
+  <circle cx="46" cy="16" r="2.5" fill="url(#fgold)" opacity="0.8"/>
+</svg>
