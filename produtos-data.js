@@ -5,19 +5,17 @@ const PRODUTOS_DATA = [
     "nome": "Bolachinhas",
     "capa": "produtos/bolachinhas/capa.png",
     "produtos": [
-      { "img": "produtos/bolachinhas/Beliscao-de-Goiabada-708x1024.jpg", "nome": "Beliscão de Goiabada" },
-      { "img": "produtos/bolachinhas/Bolachinha-de-Coco-708x1024.jpg", "nome": "Bolachinha de Coco" },
-      { "img": "produtos/bolachinhas/Bolachinha-de-Laranja-708x1024.jpg", "nome": "Bolachinha de Laranja" },
-      { "img": "produtos/bolachinhas/Bolachinha-de-Nata-708x1024.jpg", "nome": "Bolachinha de Nata" },
-      { "img": "produtos/bolachinhas/Bolachinha-Formigueiro-708x1024.jpg", "nome": "Bolachinha Formigueiro" },
-      { "img": "produtos/bolachinhas/Bolachinha-Recheada-de-Goiabada-708x1024.jpg", "nome": "Bolachinha Recheada de Goiabada" },
-      { "img": "produtos/bolachinhas/Carolina-Acucarada-708x1024.jpg", "nome": "Carolina Açucarada" },
-      { "img": "produtos/bolachinhas/Casadinho-de-Goiabada-708x1024.jpg", "nome": "Casadinho de Goiabada" },
-      { "img": "produtos/bolachinhas/Casadinho-Napolitano-708x1024.jpg", "nome": "Casadinho Napolitano" },
-      { "img": "produtos/bolachinhas/Merengue-de-Morango-708x1024.jpg", "nome": "Merengue de Morango" },
-      { "img": "produtos/bolachinhas/Samanta-Acucarada-708x1024.jpg", "nome": "Samanta Açucarada" },
-      { "img": "produtos/bolachinhas/Sequilhinho-708x1024.jpg", "nome": "Sequilhinho" },
-      { "img": "produtos/bolachinhas/Suspiro-Caseiro-708x1024.jpg", "nome": "Suspiro Caseiro" }
+      { "img": "produtos/bolachinhas/casadinho_goiabada.jpg", "nome": "Casadinho de Goiabada" },
+      { "img": "produtos/bolachinhas/casadinho_napolitano.jpg", "nome": "Casadinho Napolitano" },
+      { "img": "produtos/bolachinhas/carolina-acucarada.jpg", "nome": "Carolina Açucarada" },
+      { "img": "produtos/bolachinhas/coco.jpg", "nome": "Bolachinha de Coco" },
+      { "img": "produtos/bolachinhas/formigueiro.jpg", "nome": "Bolachinha Formigueiro" },
+      { "img": "produtos/bolachinhas/goiabada.jpg", "nome": "Bolachinha de Goiabada" },
+      { "img": "produtos/bolachinhas/laranja.jpg", "nome": "Bolachinha de Laranja" },
+      { "img": "produtos/bolachinhas/nata.jpg", "nome": "Bolachinha de Nata" },
+      { "img": "produtos/bolachinhas/recheada_goiabada.jpg", "nome": "Bolachinha Recheada de Goiabada" },
+      { "img": "produtos/bolachinhas/samanta-acucarada.jpg", "nome": "Samanta Açucarada" },
+      { "img": "produtos/bolachinhas/suspiro.jpg", "nome": "Suspiro Caseiro" }
     ]
   },
   {
