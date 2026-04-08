@@ -559,6 +559,13 @@ p { color: var(--muted); line-height: 1.8; margin: 0; }
   color: var(--muted); font-size: 0.88rem;
 }
 
+.footer-dev { margin: 0; font-size: 0.82rem; }
+.footer-dev a {
+  color: var(--muted); text-decoration: none;
+  transition: color 0.2s var(--ease);
+}
+.footer-dev a:hover { color: var(--wine); }
+
 /* ─── Floating WhatsApp ─── */
 .floating-whatsapp {
   position: fixed; right: 20px; bottom: 20px; z-index: 60;
